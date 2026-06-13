@@ -1,0 +1,119 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Test/cache
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local/generated files
+*.csv
+*.png
+*.jpg
+*.jpeg
+*.tif
+*.tiff
+*.bmp
+*.webp
+!examples/*.png
+!examples/*.jpg
+EOFcat > .gitignore <<'EOF'
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Test/cache
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local/generated files
+*.csv
+*.png
+*.jpg
+*.jpeg
+*.tif
+*.tiff
+*.bmp
+*.webp
+!examples/*.png
+!examples/*.jpg
+EOFcat > .gitignore <<'EOF'
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Test/cache
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local/generated files
+*.csv
+*.png
+*.jpg
+*.jpeg
+*.tif
+*.tiff
+*.bmp
+*.webp
+!examples/*.png
+!examples/*.jpg
